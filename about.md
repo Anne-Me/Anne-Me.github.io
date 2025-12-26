@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: 
+permalink:
 ---
 
-I’m Your Name.
+Hi!!!
 
 ### Projects
 - **Project A** — one line about it
