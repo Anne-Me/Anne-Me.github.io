@@ -1,6 +1,12 @@
 title: "Anne Müller"
 description: "A tiny GitHub Pages + Jekyll site"
 theme: minima
+
+header_pages:
+  - index.md
+  - research.md    
+  - personal.md
+
 email: anne.mueller@cispa.de
 github_username: Anne-Me
 google_scholar_user: zd5vt5gAAAAJ
