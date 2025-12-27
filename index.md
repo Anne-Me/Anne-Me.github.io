@@ -12,17 +12,20 @@ hide_title: true
 
     <h3 style="margin:20px 0 6px; font-weight:300; font-size:42px;">Anne Müller</h3>
 
-    <p style="margin-top:18px;">
-      <a href="mailto:you@example.com">Email</a> ·
-      <a href="https://github.com/YOURUSERNAME">GitHub</a> ·
-      <a href="https://www.linkedin.com/in/YOURNAME">LinkedIn</a>
-    </p>
+    <p style="margin-top:18px;"></p>
+      <ul class="social-media-list">
+        {%- include social.html -%}
+       </ul>
+
   </div>
 
   <div style="flex:1; min-width:280px;">
     <h2 style="font-weight:300; font-size:34px; margin-top:0;">Biography</h2>
 
-    I am a fourth year PhD student at CISPA! My research interests are classical and quantum cryptography and quantum computing in general. My advisor is Nico Döttling. During Summer 2025 I did a research visit with Arthur Mehta at the University of Ottawa. Feel free to contact me: anne.mueller@cispa.de.
+    I am a fourth year PhD student at CISPA advised by Nico Döttling. My research interests are classical and quantum cryptography and quantum computing in general. During Summer 2024 I did a research visit with Arthur Mehta at the University of Ottawa. 
+I did my Bachelor's Degree in Bioinformatics at Saarland University.
+
+<br> Feel free to contact me: anne.mueller@cispa.de.
 
 
  <!--   <p style="margin-top:18px;">
@@ -34,7 +37,11 @@ hide_title: true
 
 # News
 
-I will be at TCC!
+<table class="news">
+<tr>
+<td>10.Dec <br> 2025 </td><td>We received the <strong>Outstanding Paper Award</strong> at TCC for our paper "Separating Pseudorandom Codes from Local Oracles". </td>
+</tr>
+</table>
 
 
 

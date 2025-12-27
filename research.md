@@ -124,7 +124,7 @@ permalink: /research/
 
 (2023) Teaching Assistant for Quantum Cryptography Seminar<br>
 (2022) Teaching Assistant for Cryptography<br>
-(2021) Tutor for Cryptogrpahy<br>
+(2021) Tutor for Cryptography<br>
 (2020) Lecturer for Mathematics Precourse for Copmuter Science Students<br>
 (2017-2019) Tutor Positions during Bachelor Studies:  Bioinformatics 2, Bioinformatics 1, Programming 1, Mathematics Precourse for Computer Science Students
 </div>
@@ -132,3 +132,5 @@ permalink: /research/
 ## Service
 
 I was a reviewer or subreviwer for the following conferences: EuroCrypt22, TCC22, AsiaCrypt23, AsiaCrypt24, TCC24, Crypto25, PKC25, ICALP25, ACNS26, AsiaCrypt26.
+
+Sometimes I help out at the <a href="https://cispa.de/en/cysec-lab">CYSEC LAB</a> by giving security workshops to high school students.
