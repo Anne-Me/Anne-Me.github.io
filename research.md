@@ -27,6 +27,17 @@ permalink: /research/
 
 <div class="pubs">
 
+     <div class="pub">
+    <div class="pub-left">
+      <div class="pub-title">
+        On the Impossibility of Simulation Security for Quantum Functional Encryption
+      </div>
+      <div class="pub-authors">Mohammed Barhoush, Arthur Mehta, Anne Müller, Louis Salvail
+        [<a href="https://arxiv.org/abs/2601.17497">pdf</a>]</div>
+    </div>
+    <div class="pub-right">Preprint</div>
+  </div>
+
 
   <div class="pub">
     <div class="pub-left">
@@ -38,7 +49,7 @@ permalink: /research/
   
      <div class="pub-extra">
         <span style="color: #f5c400;">★</span> We received the Oustanding Paper Award!</div>
-  </div>
+    </div>
     <div class="pub-right">TCC 2025</div>
   </div>
 
