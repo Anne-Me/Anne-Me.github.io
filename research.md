@@ -86,7 +86,7 @@ permalink: /research/
 
     <div> This paper was also accepted as a talk at QCrypt 2024!</div>
     </div>
-    <div class="pub-right"> Preprint </div>
+    <div class="pub-right"> SCN 2026 </div>
 
 </div>
 
