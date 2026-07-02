@@ -73,7 +73,7 @@ permalink: /research/
       <div class="pub-authors">Arthur Mehta, Anne Müller 
         [<a href="https://eprint.iacr.org/2024/1683">pdf</a>]</div>
     </div>
-    <div class="pub-right">Preprint</div>
+    <div class="pub-right">CiC 2026</div>
   </div>
 
   <div class="pub">
