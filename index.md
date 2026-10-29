@@ -25,7 +25,7 @@ hide_title: true
     I am a fourth year PhD student at CISPA advised by <a href="https://sites.google.com/site/nicodoettling/">Nico Döttling</a>. My research interests are classical and quantum cryptography and quantum computing in general. During Summer 2024 I did a research visit with <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a> at the University of Ottawa. 
 I did my Bachelor's Degree in Bioinformatics at Saarland University.
 
-<br> Feel free to contact me: anne.mueller@cispa.de.
+<br> Feel free to contact me: anne.mueller.sb (at) gmx.de.
 
 
  <!--   <p style="margin-top:18px;">
