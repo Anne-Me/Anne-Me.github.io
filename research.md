@@ -27,6 +27,17 @@ permalink: /research/
 
 <div class="pubs">
 
+<div class="pub">
+    <div class="pub-left">
+      <div class="pub-title">
+        Separating Pseudorandom Codes from Quantum Random Oracles
+      </div>
+      <div class="pub-authors">Nico Döttling, Anne Müller, Mahesh Sreekumar Rajasree
+        [<a href="https://eprint.iacr.org/2026/2774">pdf</a>]</div>
+    </div>
+    <div class="pub-right">Preprint</div>
+  </div>
+
      <div class="pub">
     <div class="pub-left">
       <div class="pub-title">
@@ -142,6 +153,6 @@ permalink: /research/
 
 ## Service
 
-I was a reviewer or subreviwer for the following conferences: EuroCrypt22, TCC22, AsiaCrypt23, AsiaCrypt24, TCC24, Crypto25, PKC25, ICALP25, ACNS26, AsiaCrypt26.
+I was a reviewer or subreviwer for the following conferences: EuroCrypt22, TCC22, AsiaCrypt23, AsiaCrypt24, TCC24, Crypto25, PKC25, ICALP25, ACNS26, AsiaCrypt26, FC27, ITC27.
 
 From 2022 to 2025 I helped out at the <a href="https://cispa.de/en/cysec-lab">CYSEC LAB</a> by giving security workshops to high school students.
